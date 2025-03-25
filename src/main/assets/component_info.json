@@ -1,0 +1,68 @@
+{
+  "components": [
+    {
+      "name": "raspberry_pi",
+      "description": "Single-board computer developed by Raspberry Pi Foundation",
+      "specs": [
+        "Processor: Broadcom BCM2711",
+        "RAM: 1GB/2GB/4GB/8GB LPDDR4",
+        "GPIO: 40-pin header",
+        "Connectivity: Wi-Fi, Bluetooth, Ethernet"
+      ],
+      "common_projects": [
+        "Home automation systems",
+        "Retro gaming consoles",
+        "IoT gateways",
+        "Robotics controllers"
+      ]
+    },
+    {
+      "name": "arduino",
+      "description": "Open-source electronics platform based on easy-to-use hardware and software",
+      "specs": [
+        "Microcontroller: ATmega328P",
+        "Operating Voltage: 5V",
+        "Digital I/O Pins: 14",
+        "Flash Memory: 32 KB"
+      ],
+      "common_projects": [
+        "Sensor monitoring systems",
+        "3D printer controllers",
+        "LED matrix displays",
+        "Simple robots"
+      ]
+    },
+    {
+      "name": "esp32",
+      "description": "Low-cost, low-power system on a chip microcontroller with integrated Wi-Fi and Bluetooth",
+      "specs": [
+        "Cores: 32-bit dual-core",
+        "Clock frequency: up to 240 MHz",
+        "RAM: 520 KB",
+        "Wireless: Wi-Fi 802.11 b/g/n"
+      ],
+      "common_projects": [
+        "Smart home devices",
+        "Wearable technology",
+        "Battery-powered sensors",
+        "Wireless controllers"
+      ]
+    },
+    {
+      "name": "ultrasonic_sensor",
+      "description": "Electronic device that measures distance using sound waves",
+      "specs": [
+        "Operating Voltage: 5V DC",
+        "Measuring Range: 2cm-400cm",
+        "Accuracy: 3mm",
+        "Frequency: 40Hz"
+      ],
+      "common_projects": [
+        "Obstacle avoidance robots",
+        "Parking sensors",
+        "Liquid level measurement",
+        "Gesture recognition"
+      ]
+    }
+  ]
+}
